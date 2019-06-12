@@ -14,7 +14,7 @@ This module enable a giphy content type with two additional fields - Giphy image
 
 This module enable a giphy text formatter for plain text field type. So for any content type, add a plain text field and in view display tab, change the field formatter to Giphy formatter.
 
-<center><img src="screenshot.jpg" alt="Giphy" /></center>
+<center><img src="screenshot.png" alt="Giphy" /></center>
 
 
 
