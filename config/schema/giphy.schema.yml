@@ -1,0 +1,10 @@
+field.formatter.settings.giphy_text:
+  type: mapping
+  label: 'Giphy text formatter'
+  mapping:
+    results_number:
+      type: int
+      label: 'Results number'
+    api_key:
+      type: string
+      label: 'Api Key'

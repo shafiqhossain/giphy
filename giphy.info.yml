@@ -1,0 +1,10 @@
+name: 'Giphy'
+type: module
+description: 'Giphy example module'
+core: 8.x
+package: 'Custom'
+
+dependencies:
+  - focal_point
+  - image
+  - file
